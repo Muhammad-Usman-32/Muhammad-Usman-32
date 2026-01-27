@@ -73,13 +73,6 @@ I specialize in **MERN Stack**, **NestJS**, and modern backend architectures wit
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-usman-32&theme=tokyonight" />
-</p>
-
-
 
 ---
 

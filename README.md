@@ -1,10 +1,5 @@
 <p align="center">
-  <img 
-    src="https://github.com/muhammad-usman-32.png?size=200"
-    width="150"
-    style="border-radius: 50%;"
-    alt="Muhammad Usman"
-  />
+ <img src="https://avatars.githubusercontent.com/muhammad-usman-32" width="150" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Muhammad Usman</h1>

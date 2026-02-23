@@ -1,5 +1,9 @@
 <p align="center">
- <img src="https://avatars.githubusercontent.com/muhammad-usman-32" width="150" />
+  <img 
+    src="https://avatars.githubusercontent.com/muhammad-usman-32"
+    width="150"
+    style="border-radius:50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"
+  />
 </p>
 
 <h1 align="center">Hi 👋 I'm Muhammad Usman</h1>

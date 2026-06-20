@@ -1,93 +1,153 @@
-<p align="center">
-  <img 
-    src="https://avatars.githubusercontent.com/muhammad-usman-32"
-    width="150"
-    style="border-radius:50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"
-  />
+<div align="center">
+
+# Muhammad Usman
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;MERN+Stack+Developer;NestJS+%26+AWS+Developer;Building+Scalable+SaaS+Applications" />
+
+<br>
+
+<a href="https://usman-aurangzaib.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel" />
+</a>
+
+<a href="https://linkedin.com/in/muhammad-usman-aurangzaib">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:usmanjutt8132@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```javascript
+const usman = {
+  role: "Full Stack Developer",
+  focus: "Backend Engineering",
+  experience: "2+ Years",
+  
+  technologies: {
+    frontend: [
+      "React.js",
+      "Next.js",
+      "Redux Toolkit",
+      "TailwindCSS"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "Serverless"
+    ],
+
+    databases: [
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "Redis"
+    ],
+
+    cloud: [
+      "AWS",
+      "Docker",
+      "Firebase"
+    ]
+  },
+
+  currentlyBuilding: [
+    "SaaS Platforms",
+    "Payment Systems",
+    "AI Integrations",
+    "Real-Time Applications"
+  ]
+};
+```
+
+---
+
+# 🛠 Tech Arsenal
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css,js,ts" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Muhammad Usman</h1>
+### Backend
 
-<p align="center">
-  Full Stack Web Developer | MERN Stack & Backend Specialist <br/>
-  Building scalable, high-performance web applications 🚀
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" />
 </p>
 
 ---
 
-## 🧠 About Me
+# 💼 Experience
 
-I’m a **Full Stack Web Developer** with **1+ year of professional experience** building scalable and high-performance web applications.  
-I specialize in **MERN Stack**, **NestJS**, and modern backend architectures with strong database design and API development skills.
+## MERN Stack Developer (Backend Focus)
 
-- 📍 Faisalabad, Pakistan  
-- 🎓 Bachelor’s in Computer Science (NUML)  
-- 💼 Experience in professional & internship roles  
-- 📫 Email: **usmanjutt8132@gmail.com**
+### Nextpak Agile Solutions
+
+```diff
++ Production Backend Development
++ Stripe Payment Integrations
++ NestJS Applications
++ Authentication & Authorization
++ MongoDB Aggregation Pipelines
++ Cloud-Based Architectures
+```
+
+---
+<div align="center">
+<div align="center">
+
+</div>
+</div>
+---
+
+# 🎯 2026 Roadmap
+
+* System Design
+* Microservices
+* Distributed Systems
+* Advanced AWS
+* AI-Powered SaaS Products
+* Open Source Contributions
 
 ---
 
-## 🚀 Tech Stack
+# 🤝 Let's Connect
 
-### Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,redux,html,css&perline=8" />
-</p>
+<div align="center">
 
-### Databases & ORMs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase&perline=8" />
-</p>
+[Portfolio](https://usman-aurangzaib.netlify.app) •
+[LinkedIn](https://linkedin.com/in/muhammad-usman-aurangzaib) •
+[Email](mailto:usmanjutt8132@gmail.com)
 
-<p align="center">
-  <strong>ORMs:</strong> Prisma ORM
-</p>
-
-### DevOps, Cloud & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vercel,netlify&perline=8" />
-</p>
+</div>
 
 ---
 
-## 💼 What I Do
+<div align="center">
 
-- 🔹 Scalable REST APIs with **NestJS & Express**
-- 🔹 Full Stack Web Apps using **MERN & Next.js**
-- 🔹 Database Design (PostgreSQL, MongoDB, Prisma)
-- 🔹 Authentication (JWT, Firebase Auth)
-- 🔹 Cloud & Deployment (AWS, Vercel, Netlify)
-- 🔹 Clean, maintainable & production-ready code
+### Building software that solves real problems.
 
----
+⭐ If you like my work, consider following my journey.
 
-## 🧑‍💻 Professional Experience
-
-**MERN Stack Developer — Nextpak Agile Solutions**  
-*Currently Working*
-
-- Actively contributing to production-level backend systems
-- Writing clean, maintainable, and well-structured server-side code
-- Solving real business problems through efficient backend logic
-
-**Full Stack Web Developer (Intern)**  
-- Pakistan Blockchain Institute  
-- DevelopersHub Corporation  
-- MABSOL Technologies (Next.js Intern)
-
----
-
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-usman-aurangzaib/">LinkedIn</a> •
-  <a href="mailto:usmanjutt8132@gmail.com">Email</a> •
-  <a href="https://usman-aurangzaib.netlify.app">Portfolio</a>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+</div>
